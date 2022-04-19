@@ -1,0 +1,6 @@
+num1 = 14
+num2 = 27
+
+sum = num1 + num2
+
+print('The sum of given num are:',sum)
